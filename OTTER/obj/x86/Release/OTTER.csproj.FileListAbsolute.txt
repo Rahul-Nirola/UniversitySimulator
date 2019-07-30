@@ -1,0 +1,20 @@
+C:\Users\Lucija\Desktop\Projekt\Vjezba 09 - prazno\OTTER\bin\Release\OTTER.exe.config
+C:\Users\Lucija\Desktop\Projekt\Vjezba 09 - prazno\OTTER\bin\Release\OTTER.exe
+C:\Users\Lucija\Desktop\Projekt\Vjezba 09 - prazno\OTTER\bin\Release\OTTER.pdb
+C:\Users\Lucija\Desktop\Projekt\Vjezba 09 - prazno\OTTER\obj\x86\Release\OTTER.BGL.resources
+C:\Users\Lucija\Desktop\Projekt\Vjezba 09 - prazno\OTTER\obj\x86\Release\OTTER.Properties.Resources.resources
+C:\Users\Lucija\Desktop\Projekt\Vjezba 09 - prazno\OTTER\obj\x86\Release\OTTER.csproj.GenerateResource.Cache
+C:\Users\Lucija\Desktop\Projekt\Vjezba 09 - prazno\OTTER\obj\x86\Release\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Lucija\Desktop\Projekt\Vjezba 09 - prazno\OTTER\obj\x86\Release\OTTER.exe
+C:\Users\Lucija\Desktop\Projekt\Vjezba 09 - prazno\OTTER\obj\x86\Release\OTTER.pdb
+C:\Users\Lucija\Desktop\Projekt\Vjezba 09 - prazno\OTTER\obj\x86\Release\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Lucija\Desktop\Projekt\UniversitySimulator\OTTER\bin\Release\OTTER.exe.config
+C:\Users\Lucija\Desktop\Projekt\UniversitySimulator\OTTER\bin\Release\OTTER.exe
+C:\Users\Lucija\Desktop\Projekt\UniversitySimulator\OTTER\bin\Release\OTTER.pdb
+C:\Users\Lucija\Desktop\Projekt\UniversitySimulator\OTTER\obj\x86\Release\OTTER.csprojAssemblyReference.cache
+C:\Users\Lucija\Desktop\Projekt\UniversitySimulator\OTTER\obj\x86\Release\OTTER.BGL.resources
+C:\Users\Lucija\Desktop\Projekt\UniversitySimulator\OTTER\obj\x86\Release\OTTER.Properties.Resources.resources
+C:\Users\Lucija\Desktop\Projekt\UniversitySimulator\OTTER\obj\x86\Release\OTTER.csproj.GenerateResource.cache
+C:\Users\Lucija\Desktop\Projekt\UniversitySimulator\OTTER\obj\x86\Release\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Lucija\Desktop\Projekt\UniversitySimulator\OTTER\obj\x86\Release\OTTER.exe
+C:\Users\Lucija\Desktop\Projekt\UniversitySimulator\OTTER\obj\x86\Release\OTTER.pdb
